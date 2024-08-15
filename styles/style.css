@@ -49,3 +49,11 @@ h3 {
 .education li {
   margin: 5px 0;
 }
+
+.highlight {
+  background-color: yellow;
+}
+
+/* .some-random-class {
+  background-color: pink;
+} */
